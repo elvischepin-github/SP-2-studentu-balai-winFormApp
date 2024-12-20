@@ -1,4 +1,4 @@
-Link ➵ https://elvischepin-github.github.io/webpage-forty/
+Link ➵ [Persisiųsti vieną iš diegiklių / Download one of the installers](https://github.com/elvischepin-github/SP-2-studentu-balai-winFormApp/tree/main/StudentaiSetup/Release)
 ---
 # Aprašymas
 Studentų balų skaičiuoklė – tai Windows Forms aplikacija.
