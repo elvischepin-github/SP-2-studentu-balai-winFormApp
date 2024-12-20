@@ -13,3 +13,7 @@ A student grade calculator developed as a Windows Forms application.
 This application includes an installer, allowing users to install and use it directly from their desktop.
 It enables file uploads and saves, as well as calculating averages using either the median or the standard average method.
 Programmed with the C++/CLR compiler.
+
+---
+
+![preview](https://github.com/user-attachments/assets/b37d58b5-3e87-48bb-8e8a-fa05f57007d5)
